@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Eduardo Riederer 👋</h1>
 
 <p align="center">
-  <img src="assets/profile.jpg" width="20%">
+  <img src="assets/profile.PNG" width="20%">
 </p>
 
 <p align="center">
