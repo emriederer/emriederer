@@ -9,7 +9,7 @@
   <a href="mailto:em.riederer@alumnos.upm.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">Computer Scientist & Machine Learning Engineer</p>
+<p align="center">Data Scientist & Machine Learning Engineer</p>
 
 <p>🖥️ I am a passionate Data Scientist with a solid foundation in software engineering and advanced expertise in machine learning and big data. I hold a Bachelor of Software Engineering and an MSc in Machine Learning and Big Data, which have equipped me with a strong technical background and a deep understanding of cutting-edge technologies.
 
