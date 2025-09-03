@@ -1,8 +1,10 @@
 <h1 align="center">Hi! I'm Eduardo Riederer 👋</h1>
 
-#<p align="center">
-#  <img src="assets/profile.PNG" width="20%">
-#</p>
+<--!
+<p align="center">
+  <img src="assets/profile.PNG" width="20%">
+</p>
+-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-miguel-riederer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
